@@ -8,8 +8,8 @@ You will implement the functions in recommender.py:
 - score_song
 - recommend_songs
 """
-
-from recommender import load_songs, recommend_songs
+from src.recommender import load_songs, recommend_songs
+#from recommender import load_songs, recommend_songs
 
 
 def main() -> None:
